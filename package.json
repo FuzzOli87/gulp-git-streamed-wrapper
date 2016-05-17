@@ -1,6 +1,6 @@
 {
   "name": "gulp-git-streamed-wrapper",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Wraps gulp-git's methods to return streams for chainability.",
   "main": "index.js",
   "scripts": {
